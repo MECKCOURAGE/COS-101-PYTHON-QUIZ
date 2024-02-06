@@ -1,6 +1,6 @@
 quiz_data = [
-{ "question": "Who created python: ",
- "choices": ["Guido Van Rossum", " Elon Musk", "Bill Gates", "Mark Zuberburg"],
+{ "question": "Who created Python: ",
+ "choices": ["Guido Van Rossum", " Elon Musk", "Bill Gates", "Mark Zuckerberg"],
 "answer": "Guido Van Rossum"
 },
 {"question":"What year was python created: ",
